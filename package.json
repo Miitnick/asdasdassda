@@ -1,7 +1,7 @@
 {
   "name": "whatsapp-bot",
   "version": "2.0.0",
-  "description": "Halo sesama pengguna, <b>whatsapp-bot</b> adalah skrip otomatisasi whatsapp atau lebih seperti bot yang merespons kata kunci tertentu dan beberapa fitur lain yang sedang kami kerjakan.",
+  "description": "Olá, colegas usuários, <b>whatsapp-bot</b> é um script de automação do Whatsapp ou mais como um bot que responde a certas palavras-chave e alguns outros recursos em que estamos trabalhando.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
